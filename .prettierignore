@@ -1,0 +1,40 @@
+# IDE / Editor
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build / Output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Cache
+.cache/
+.tmp/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Minified / generated files
+*.min.js
+*.min.css
